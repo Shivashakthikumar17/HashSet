@@ -1,0 +1,8 @@
+HashSet<String> testSet =  new HashSet<>();
+TestSet.add("Tenkasi");
+TestSet.add("Tirunelveli");
+TestSet.add(null);
+System.out.println(testSet);
+for (String place : testSet){ 
+System.out.println(place);
+}
